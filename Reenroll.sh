@@ -33,4 +33,4 @@ revert() {
     sleep 2
     doas reboot
     sleep 1000
-runjob revert ;;
+revert
